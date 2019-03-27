@@ -1,0 +1,23 @@
+.header{
+    background-image: url(Images/header.png);
+    background-position: bottom;
+    background-repeat: repeat-x;
+    height: 120px;
+    padding: 0 20px;
+    border-bottom: 2px solid #000000;
+}
+
+.nav{
+    float: left;
+    width: 150px;
+}
+
+.main{
+    margin: 0 210px 0 160px;
+    padding: 1px 10px 20px 10px;
+}
+
+body{
+    margin: 0;
+    background-image: url(Images/background.png)
+}
